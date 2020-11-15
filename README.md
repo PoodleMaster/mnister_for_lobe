@@ -1,18 +1,18 @@
 # mnister_for_lobe
 
 
-■Requirements
+## ■Requirements
 Local PC
 
-■Starting Method
+## ■Starting Method
 git clone https://github.com/PoodleMaster/mnister_for_lobe
 
 
-■Contributing
+## ■Contributing
 Contributions, issues and feature requests are welcome.
 
-■Author
+## ■Author
 Github: PoodleMaster
 
-■License
+## ■License
 Check the LICENSE file.
