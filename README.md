@@ -2,7 +2,8 @@
 
 
 ## ■Requirements
-Local PC
+・Local PC (Browser)
+・lobe
 
 ## ■Starting Method
 git clone https://github.com/PoodleMaster/mnister_for_lobe
