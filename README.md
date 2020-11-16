@@ -6,8 +6,8 @@
 - lobe
 
 ## ■Starting Method
-git clone https://github.com/PoodleMaster/mnister_for_lobe
-
+- git clone https://github.com/PoodleMaster/mnister_for_lobe
+- Launch index.html directly from your browser.
 
 ## ■Contributing
 Contributions, issues and feature requests are welcome.
