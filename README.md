@@ -1,5 +1,6 @@
 # mnister_for_lobe
 Perform MNIST using Lobe.
+![sysytem](https://user-images.githubusercontent.com/69660581/99254285-7b3f2880-2855-11eb-8161-dc35f912e5fb.png)
 
 ## ■Requirements
 - [Lobe](https://lobe.ai/)
