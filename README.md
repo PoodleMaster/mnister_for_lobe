@@ -11,8 +11,7 @@ Perform MNIST using Lobe.
 - git clone https://github.com/PoodleMaster/mnister_for_lobe
 - Launch index.html directly from your browser.
 
-※See below for details.
-https://qiita.com/PoodleMaster/items/8829cfa9036b6c14ee27
+※See below for details. ( https://qiita.com/PoodleMaster/items/8829cfa9036b6c14ee27 )
 
 ## ■Contributing
 Contributions, issues and feature requests are welcome.
