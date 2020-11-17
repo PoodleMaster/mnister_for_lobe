@@ -133,15 +133,14 @@ function init() {
             var result_parse = JSON.parse(result || "null");
             document.getElementById("ResultImg").src = png;
 
-            var array = [];
             for (let i = 0; i <= 9; i++) {
                 labelname = "Label" + String(i);
                 document.getElementById(labelname).textContent = result_parse.outputs.Labels[i][1].toFixed(10);
-                array.push(result_parse.outputs.Labels[i][1].toFixed(10));
             }
-            max_val = Math.max.apply(null, array);
-            document.getElementById("ResultLabel").textContent = result_parse.outputs.Prediction[0];
-            document.getElementById("ResultScore").textContent = max_val.toFixed(10);
+            pred = result_parse.outputs.Prediction[0];
+            conf = result_parse.outputs.Labels[pred][1].toFixed(10);
+            document.getElementById("ResultLabel").textContent = pred;
+            document.getElementById("ResultScore").textContent = conf;
           }
         });
 
