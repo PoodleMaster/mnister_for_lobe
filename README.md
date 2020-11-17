@@ -9,7 +9,7 @@ Perform MNIST using Lobe.
 ## ■Starting Method
 - Start Lobe and put it in Play state.
 - git clone https://github.com/PoodleMaster/mnister_for_lobe
-- Launch index.html directly from your browser.
+- Launch 'index.html' directly from your browser.
 
 ※See below for details. ( https://qiita.com/PoodleMaster/items/8829cfa9036b6c14ee27 )
 
